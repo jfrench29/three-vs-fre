@@ -6,7 +6,15 @@ const rulings = [
  '“The trophy is regulation size. We wrote the regulations.”',
  '“Your complaint has been printed on next year’s towel.”',
  '“After careful review, we have awarded ourselves another review.”',
- '“You may be entitled to compensation. Unfortunately, we spent it on koozies.”'
+ '“You may be entitled to compensation. Unfortunately, we spent it on koozies.”',
+ '“Jason, your swing is beautiful. We’ll put that on your participation trophy.”',
+ '“Three against one is only unfair if you insist on counting.”',
+ '“Your request to let your clubs do the talking is denied. They keep saying second place.”',
+ '“We admire your commitment to showing up for your own merchandise launch.”',
+ '“The committee agrees you’re the better golfer. This changes absolutely nothing.”',
+ '“You brought a short game. We brought a quorum.”',
+ '“You can have the moral victory. It doesn’t fit in the trophy cabinet anyway.”',
+ '“The domain was available. Much like your schedule during the winners’ speech.”'
 ];
 let rulingIndex = 0;
 document.querySelector('#appeal').addEventListener('click', () => {
