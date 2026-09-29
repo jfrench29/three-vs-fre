@@ -1,0 +1,5 @@
+Destination: https://fredesucksatgolf.com
+Master: frede-qr.svg (vector); alternate: frede-qr.png.
+Black on opaque white. Preserve the entire white quiet zone. No logo overlay.
+Request a physical golf-ball sample and scan it on multiple phones before ordering.
+The domain must be connected and HTTPS working before distribution.

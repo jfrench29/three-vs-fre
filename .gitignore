@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+.work/
+node_modules/
+/*.jpg
+/*.jpeg
+/*.png
+/*.heic
