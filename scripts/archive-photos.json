@@ -63,6 +63,22 @@
     "alt": "A friend drinking from the oversized trophy"
   },
   {
+    "source": "20230107_180551532_iOS.jpg",
+    "output": "archive-20230107_180551532.webp",
+    "archive_year": "2019",
+    "caption": "Another modest celebration.",
+    "alt": "Friends celebrating together with the trophy",
+    "year_note": "User confirmed 2019; source filename reflects an incorrect later date."
+  },
+  {
+    "source": "20230107_180551586_iOS.jpg",
+    "output": "archive-20230107_180551586.webp",
+    "archive_year": "2019",
+    "caption": "The trophy has a higher ceiling than our maturity.",
+    "alt": "A friend raising the trophy overhead",
+    "year_note": "User confirmed 2019; source filename reflects an incorrect later date."
+  },
+  {
     "source": "20210517_151334443_iOS.heic",
     "output": "archive-20210517_151334443.webp",
     "archive_year": "2021",
@@ -89,20 +105,6 @@
     "archive_year": "2021",
     "caption": "The roast has entered production.",
     "alt": "A photograph of custom face merchandise artwork"
-  },
-  {
-    "source": "20230107_180551532_iOS.jpg",
-    "output": "archive-20230107_180551532.webp",
-    "archive_year": "2023",
-    "caption": "Another modest celebration.",
-    "alt": "Friends celebrating together with the trophy"
-  },
-  {
-    "source": "20230107_180551586_iOS.jpg",
-    "output": "archive-20230107_180551586.webp",
-    "archive_year": "2023",
-    "caption": "The trophy has a higher ceiling than our maturity.",
-    "alt": "A friend raising the trophy overhead"
   },
   {
     "source": "20231011_174932610_iOS.heic",
